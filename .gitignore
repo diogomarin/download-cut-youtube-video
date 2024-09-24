@@ -1,0 +1,13 @@
+# Ignorar arquivos de ambiente virtual
+.venv/
+
+# Ignorar arquivos de sistema
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar outros arquivos gerados automaticamente
+*.sqlite3
+*.DS_Store
